@@ -1,0 +1,32 @@
+{
+  "houses": [
+    {
+      "name": "asdfsdfsd",
+      "ownerName": "sdfsdf",
+      " address": "",
+      " areaCode": "",
+      " rent": "",
+      " preferredTenant": "",
+      "image": "",
+      "address": "sdfsdf",
+      "areaCode": "sdfsdf",
+      "rent": "fsdf",
+      "": "sdfsdfs",
+      "id": 1
+    },
+    {
+      "name": "dfsf",
+      "ownerName": "1",
+      " address": "",
+      " areaCode": "",
+      " rent": "",
+      " preferredTenant": "",
+      "image": "",
+      "address": "1",
+      "areaCode": "1",
+      "rent": "1",
+      "": "1",
+      "id": 2
+    }
+  ]
+}
